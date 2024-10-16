@@ -94,8 +94,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/0aa19cf2-27da-4414-8617-07db4f1329e9)
 
-![Screenshot 2024-10-16 230350](https://github.com/user-attachments/assets/305e8c51-6cd9-4a63-b42e-76a2f14b8a60)
 
 ## RESULT:
 The program for the RSA algorithm is executed successfully.
